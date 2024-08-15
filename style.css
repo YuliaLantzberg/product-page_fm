@@ -98,6 +98,7 @@ body {
 	letter-spacing: 0.1rem;
 	cursor: pointer;
 	transition: all 0.3s;
+	border: none;
 }
 
 .btn img {
